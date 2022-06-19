@@ -21,8 +21,8 @@ A polished, professional, interactive, and accessible front-end portfolio site w
 
 #### _Further Exploration_
 _Further exploration objectives:_
-
-- Implement interactive versions of John Whitten's pixel drawings
+- Include animated PDF of Thunderstruck book
+- Include interactive versions of John Whitten's pixel drawings
 
 ## Website Components Planning
 
@@ -30,7 +30,6 @@ _Further exploration objectives:_
 
 
 ## Technologies Used <a id="technologies"></a>
-
 * HTML
 * CSS
 * React
@@ -41,7 +40,6 @@ _Further exploration objectives:_
 * Webpack
 
 ## Project Setup/Installation Instructions <a id="setup"></a>
-
 * Navigate to the directory in which you would like to clone this project.
 * Run `git clone https://github.com/johnwhittenstudio/thunderstruck.git` in terminal.
 * Run `cd thunderstruck` to navigate into new project directory.
@@ -51,12 +49,11 @@ _Further exploration objectives:_
 * Run `npm run test` to run tests.
 
 ## Known Bugs <a id="bugs"></a>
-
 - _None._
+
+## License <a id="license"></a>
+Copyright (c) 2022 _**John Whitten**_
 
 ## Contact <a id="contact"></a>
 John Whitten - [Email](mailto:johnwhitten.studio@gmail.com) • [LinkedIn](https://www.linkedin.com/in/johnwhitten-studio/) • [GitHub](https://github.com/johnwhittenstudio)
 
-## License <a id="license"></a>
-
-Copyright (c) 2022 _**John Whitten**_
