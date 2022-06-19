@@ -2,6 +2,7 @@
 
 ### Tuesday 5/31 | Total Hours: 3 Hours
 - 12:00 - 3:00 pm: follow YouTube tutorial _[React Shopping Cart For Absolute Beginners 2022](https://www.youtube.com/watch?v=AmIdY1Eb8tY)_ to create functioning shopping cart for Thunderstruck merch
+- [johnwhittenstudio/thunderstruck-merch-practice](https://github.com/johnwhittenstudio/thunderstruck-merch-practice)
 
 ### Thursday 6/16 | Total Hours: 2 Hours
 - 1:00 - 3:00 pm: research P5Js
