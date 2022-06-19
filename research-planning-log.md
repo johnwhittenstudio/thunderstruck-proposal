@@ -12,3 +12,6 @@
 
 ### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
+
+### Capstone Resources & Inspiration:
+[https://docs.google.com/document/d/1_zL8OBVUofNlXkb-JnNNbi6lmA0SyMvjHqlepXn2MkI/edit?usp=sharing](https://docs.google.com/document/d/1_zL8OBVUofNlXkb-JnNNbi6lmA0SyMvjHqlepXn2MkI/edit?usp=sharing)
