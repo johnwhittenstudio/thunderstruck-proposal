@@ -10,8 +10,6 @@
 ### Sunday 6/19 | Total Hours: 1 Hour
 - 8:00 - 9:00 am: create Thunderstruck capstone GitHub repo and format proposal, research & planning log, and readme
 
-</hr>
-
 #### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
 
