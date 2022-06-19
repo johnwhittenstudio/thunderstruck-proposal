@@ -23,7 +23,7 @@ This site will be a polished, professional, interactive, and accessible front-en
 
 ### Further Exploration
 - Animate an interactive PDF to enable viewers to flip through the book
-- Include interactive pages drawing images with
+- Include pages with interactive images of pixel drawings
 
 ### Additional Resources
 [https://docs.google.com/document/d/1_zL8OBVUofNlXkb-JnNNbi6lmA0SyMvjHqlepXn2MkI/edit?usp=sharing](https://docs.google.com/document/d/1_zL8OBVUofNlXkb-JnNNbi6lmA0SyMvjHqlepXn2MkI/edit?usp=sharing)
