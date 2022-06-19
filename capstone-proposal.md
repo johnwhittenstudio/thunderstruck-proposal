@@ -1,7 +1,7 @@
-# Project Proposal Template
+## Project Proposal Template
 
-## Name of Student: **John Whitten**
-## Name of Project: **_Thunderstruck_**
+### Name of Student: **John Whitten**
+### Name of Project: **_Thunderstruck_**
 
 ### Project's Purpose or Goal: (What will it do for users?)
 _List the absolute minimum features the project requires to meet this purpose or goal:_
