@@ -55,5 +55,5 @@ _Further exploration objectives:_
 Copyright (c) 2022 _**John Whitten**_
 
 ## Contact <a id="contact"></a>
-John Whitten - [Email](mailto:johnwhitten.studio@gmail.com) • [LinkedIn](https://www.linkedin.com/in/johnwhitten-studio/) • [GitHub](https://github.com/johnwhittenstudio)
+John Whitten [Email](mailto:johnwhitten.studio@gmail.com) • [LinkedIn](https://www.linkedin.com/in/johnwhitten-studio/) • [GitHub](https://github.com/johnwhittenstudio)
 
