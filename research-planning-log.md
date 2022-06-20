@@ -11,6 +11,9 @@
 - 8:00 - 9:00 am: create Thunderstruck capstone GitHub repo and format proposal, research & planning log, and readme
 - 3:00 - 5:00 pm: create [Thunderstruck layout wip repo](https://github.com/johnwhittenstudio/ts-layout-wip.git) from the following [How to create a multi-page website using React.js](https://www.geeksforgeeks.org/how-to-create-a-multi-page-website-using-react-js/) resource in order to play around with multi-page React portfolio site setup.
 
+### Monday 6/20 | Total Hours: 3 Hours
+- 8:00 - 11:00 am: research Material UI with the [Material UI React Tutorial](https://www.youtube.com/watch?v=vyJU9efvUtQ)
+
 #### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
 
