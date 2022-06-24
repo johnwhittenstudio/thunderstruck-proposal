@@ -14,6 +14,10 @@
 ### Monday 6/20 | Total Hours: 3 Hours
 - 8:00 - 11:00 am: research Material UI with the [Material UI React Tutorial](https://www.youtube.com/watch?v=vyJU9efvUtQ)
 
+### Thursday 6/23 | Total Hours: 2 Hours
+- 3:00 - 5:00 pm: research how to [Render images as interactive particles with React](https://reactjsexample.com/render-images-as-interactive-particles-with-react/) with accompanying [github repo provided by malerba118](https://github.com/malerba118/react-particle-image-demo).
+- Pushed my own experimentations with a particle-image repo to github at [https://github.com/johnwhittenstudio/particle-image](https://github.com/johnwhittenstudio/particle-image)
+
 #### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
 
