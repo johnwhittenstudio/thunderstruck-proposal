@@ -18,6 +18,11 @@
 - 3:00 - 5:00 pm: research how to [Render images as interactive particles with React](https://reactjsexample.com/render-images-as-interactive-particles-with-react/) with accompanying [github repo provided by malerba118](https://github.com/malerba118/react-particle-image-demo).
 - Pushed my own experimentations with a particle-image repo to github at [https://github.com/johnwhittenstudio/particle-image](https://github.com/johnwhittenstudio/particle-image)
 
+### Friday 6/24 | Total Hours: 4 Hours
+- 5:00 - 7:00 pm: research [How to Create a useWindowSize() React Hook](https://dev.to/reedbarger/how-to-create-a-usewindowsize-react-hook-2bcm) and [useHooks🐠Easy to understand React Hook recipes by ui.dev](https://usehooks.com/useWindowSize/) and implement into project.
+- 7:00 - 9:00 pm: research and experiment with [15 React Carousel, Gallery & Image Slider Libraries](https://bashooka.com/coding/15-react-carousel-gallery-image-slider-libraries/)
+
+
 #### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
 
