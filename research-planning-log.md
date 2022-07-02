@@ -22,6 +22,8 @@
 - 5:00 - 7:00 pm: research [How to Create a useWindowSize() React Hook](https://dev.to/reedbarger/how-to-create-a-usewindowsize-react-hook-2bcm) and [useHooks🐠Easy to understand React Hook recipes by ui.dev](https://usehooks.com/useWindowSize/) and implement into project.
 - 7:00 - 9:00 pm: research and experiment with [15 React Carousel, Gallery & Image Slider Libraries](https://bashooka.com/coding/15-react-carousel-gallery-image-slider-libraries/)
 
+### Saturday 6/25 | Total Hours: 3 Hours
+- 8:00 - 11:00 am: begin captone project repo [https://github.com/johnwhittenstudio/thunderstruck](https://github.com/johnwhittenstudio/thunderstruck.git) and experiment with multi-page static react site and implement gallery carousel, particle-image splash page, about section, and artists page.
 
 #### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
