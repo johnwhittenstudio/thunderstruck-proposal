@@ -25,6 +25,10 @@
 ### Saturday 6/25 | Total Hours: 3 Hours
 - 8:00 - 11:00 am: begin captone project repo [https://github.com/johnwhittenstudio/thunderstruck](https://github.com/johnwhittenstudio/thunderstruck.git) and experiment with multi-page static react site and implement gallery carousel, particle-image splash page, about section, and artists page.
 
+### Saturday 7/6 | Total Hours: 3 Hours
+- 8:00 - 11:00 am: worked through a [React Portfolio Website](https://www.youtube.com/watch?v=0o_JVcSKxRA&t=0s) YouTube tutorial to better familiarize myself with how to create a static, stateless react portfolio site.
+- created the following [https://github.com/johnwhittenstudio/johnwhitten-studio-portfolio](https://github.com/johnwhittenstudio/johnwhitten-studio-portfolio) repo on GitHub
+
 #### Capstone Proposal:
 [https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing](https://docs.google.com/document/d/1WOiKFk-_xHX4Ejhx9WXVc-5PZwGBh0KgWyRalX4onF8/edit?usp=sharing)
 
