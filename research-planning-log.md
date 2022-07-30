@@ -39,6 +39,7 @@
 
 ### Saturday 7/9 | Total Hours: 3 Hours
 - 8:00 - 11:00 am:
+- Experiment with Swiper, PageFlip
 
 ### Sunday 7/17 | Total Hours: 9 Hours
 - 9:00 am - 7:00 pm:
